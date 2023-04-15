@@ -152,8 +152,8 @@ function calcAge() {
 
 ## Repository
 
-[Click here]()
+[Click here](https://github.com/bulamagk/A-simple-Age-Calculator)
 
 ## Live Preview
 
-[Click here]()
+[Click here](https://bulamagk.github.io/A-simple-Age-Calculator/)
